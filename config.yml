@@ -1,0 +1,5 @@
+bin_xdelta3: 'xdelta3-3.1.0-x86_64.exe'
+url: ''
+simclient_path: ''
+simclient_folders: ['app\\bin', 'app\\lib']
+timeout: 10
